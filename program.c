@@ -221,7 +221,7 @@ int readOption()
     return opt;
 }
 
-// crtata ecranul si afiseaza header-ul
+// Curata ecranul si afiseaza header-ul
 void printHeader(const char *header)
 {
     clearScreen();
